@@ -98,7 +98,7 @@ O fluxo básico da ferramenta é:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/LeadGenerator.git
+git clone https://github.com/PedroTi-cmd/LeadGenerator.git
 cd LeadGenerator
 ```
 
